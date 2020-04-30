@@ -1,0 +1,14 @@
+{
+  "name": "websocket-thu",
+  "version": "1.0.0",
+  "description": "websocket server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basri Dogan",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.31"
+  }
+}
